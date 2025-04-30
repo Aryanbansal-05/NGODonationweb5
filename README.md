@@ -1,12 +1,50 @@
-# React + Vite
+# 🤝 Zariya — NGO Donation Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Zariya** is a secure and transparent NGO donation platform built using **React.js**, **Tailwind CSS**, and **Blockchain** technology. It aims to connect donors with verified NGOs, ensuring that every contribution is trackable, immutable, and trustworthy.
 
-Currently, two official plugins are available:
+🏆 Built as part of a hackathon project by Team WEB5.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧾 **Verified NGO Listings** with trust indicators
+- 💸 **Blockchain-Based Donations** for transparency and security
+- 🖼️ Modern **React + Tailwind CSS** frontend
+- 🔍 Search & filter NGOs by categories (e.g., education, healthcare, environment)
+- 🧠 Integrated chatbot assistant (**Zariya Bot**) for user guidance
+- 📜 Donation history stored on a decentralized ledger
+- 🔐 End-to-end secure payment flow
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+- **React.js**
+- **Tailwind CSS**
+- **React Router**
+
+### 🔗 Backend & Blockchain
+- **Smart Contracts** (Solidity / Ethereum-compatible)
+- **Web3.js / Ethers.js**
+- **MetaMask Integration**
+- **IPFS / Distributed Storage (optional)**
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/zariya.git
+cd zariya
+cd client
+npm install
+npm run dev
